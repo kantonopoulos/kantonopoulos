@@ -14,7 +14,6 @@ I'm a bioinformatician navigating the crossroads of **big data analytics** 📊,
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=kantonopoulos&show_icons=true&locale=en" alt="kantonopoulos" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantonopoulos&" alt="kantonopoulos" /></td>
   </tr>
 </table>
