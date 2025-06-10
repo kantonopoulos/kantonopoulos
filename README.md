@@ -2,7 +2,7 @@
 
 # Hi there, I'm Konstantinos 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Chemical+engineer+by+training...;Bioinformatician+by+mindset!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Engineer+by+training...;Bioinformatician+by+mindset!)](https://git.io/typing-svg)
 
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:k.antono@outlook.com"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
