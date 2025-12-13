@@ -2,7 +2,7 @@
 
 # Hi there, I'm Konstantinos 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Data-driven+scientist...;Builder+by+mindset!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Data-driven+scientist+by+training...;Builder+by+mindset!)](https://git.io/typing-svg)
 
 [![Selected Skills](https://skillicons.dev/icons?i=py,r,git,vscode,pytorch)](https://skillicons.dev)
 
