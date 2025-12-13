@@ -7,7 +7,7 @@
 [![Selected Skills](https://skillicons.dev/icons?i=py,r,git,vscode,pytorch)](https://skillicons.dev)
 
 <pre>
-ABOUT ME
+WHO AM I ?
 
 🎓 PhD student at Science for Life Laboratory (SciLifeLab), KTH
 🧪 Bioinformatics & proteomics researcher by training
@@ -21,16 +21,13 @@ ABOUT ME
 <a href="https://www.linkedin.com/in/kantonopoulos/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp; 
 
 <pre>
-CURRENT FOCUS
+𝗪𝗛𝗔𝗧 𝗜 WORK ON NOW ?
 
 🧬 Human Protein Atlas (Alpha Cell Program)
     Mapping gene and protein expression across human cell types and tissues
 
 📊 Data integration & analytics
     Integrating single-cell, bulk RNA and proteomics data at scale
-
-🤖 Computational methods
-    Machine learning, clustering, network-informed models for biological systems
 
 🧱 Reproducible research
     Developing open, well-documented pipelines and analysis tools
