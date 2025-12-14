@@ -21,7 +21,7 @@ WHO AM I ?
 <a href="https://www.linkedin.com/in/kantonopoulos/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp; 
 
 <pre>
-𝗪𝗛𝗔𝗧 𝗜 WORK ON NOW ?
+WHAT I WORK ON NOW ?
 
 🧬 Human Protein Atlas (Alpha Cell Program)
     Mapping gene and protein expression across human cell types and tissues
