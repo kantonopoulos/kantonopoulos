@@ -31,4 +31,7 @@ WHAT I WORK ON NOW ?
 
 🧱 Reproducible research
     Developing open, well-documented pipelines and analysis tools
+
+🔥 ELEBot
+    Helping researchers build a daily 10-minute habit of reading curated literature
 </pre>
